@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Created buy Shiva @ CPH:SEC / Cyberium White Hacker Team
+# Created by Shiva @ CPH:SEC / Cyberium White Hacker Team
 # Respects to Primalsecurity, Violent Python & Offensive Python
 
 try:
